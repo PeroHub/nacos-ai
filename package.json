@@ -1,0 +1,17 @@
+{
+  "name": "open-ai-nacos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "single-response.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.0.0"
+  }
+}
